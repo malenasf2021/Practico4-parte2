@@ -30,5 +30,3 @@ Dentro de él, se deben **crear algunos artículos de distinto tipo**, **invocar
 Finalmente, **ejecute su programa**.
 
 ---
-
-**Programación 2 – Prof. Domingo Pérez**
