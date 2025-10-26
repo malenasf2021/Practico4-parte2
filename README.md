@@ -10,7 +10,7 @@ conteniendo solamente el método `main` que resuelva el problema y, por último,
 ## Ejercicio 4
 Para los ejercicios 4 y 5, considere el **diagrama de clases** de implementación que se presenta a continuación:
 
-![Diagrama de clases](imagenej42.png)
+![Diagrama de clases](.imagenej42.png)
 
 Cree un **Proyecto en Java** para este ejercicio y realice las siguientes partes:
 
